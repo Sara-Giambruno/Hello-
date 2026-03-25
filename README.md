@@ -1,1 +1,2 @@
-# Hello-
+# Hello- 
+my name is Sara and I'm a global business student at DCU university 
